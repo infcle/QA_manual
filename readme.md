@@ -1,13 +1,12 @@
-# Curso QA
+# Curso QA (Testing de Software Manual)
 
-## ¿Qué hace un tester?
+## Organización del Curso
 
-Un **tester** se encarga de verificar la funcionalidad del software.  
-Esta tarea puede realizarse de dos formas principales:
+- [**Módulo 1:** Principios y Fundamentos(Concepto de calidad)](modulo1_principios_fundamentos.md)
+- **Módulo 2:** Diseño de Pruebas Funcionales
+- **Módulo 3:** Gestión de Defectos
+- **Módulo 4:** Automatización
+- **Módulo 5:** Pruebas No Funcionales
+- **Módulo 6:** Gestión de Proyectos de Testing
 
-- **QA Manual:** El tester ejecuta las pruebas de manera manual, siguiendo casos de prueba definidos.
-- **QA Automatizado:** El tester utiliza herramientas y scripts para automatizar la ejecución de pruebas.
-
-> El objetivo principal es asegurar la calidad del producto antes de su lanzamiento.
-
-[1. Concepto de calidad](concepto_calidad.md)
+---
