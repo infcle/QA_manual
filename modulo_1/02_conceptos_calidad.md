@@ -1,105 +1,113 @@
 # Conceptos de Calidad
-
 ## Contenido
 
 - [**¿Qué es calidad?**](#qué-es-calidad)
 - [**¿Cómo hacemos calidad?**](#cómo-hacemos-calidad)
 - [**¿Dónde aplica?**](#dónde-aplica)
-- [**QA/QC**](#qaqc)
-- [**Atributos de QA/QC**](#atributos-de-calidad)
+- [**QA vs QC**](#qa-vs-qc)
+- [**Atributos de Calidad**](#atributos-de-calidad)
 - [**Ciclo Virtuoso de Deming**](#ciclo-virtuoso-de-deming)
-- [**Normas y estándares**](#normas-y-estándares)
+- [**Normas y Estándares**](#normas-y-estándares)
+- [**Modelos de Madurez**](#modelos-de-madurez)
 
 ---
 
 ## ¿Qué es calidad?
 
-La calidad es el grado en el que un sistema, componente o proceso **cumple con los requisitos especificados** y satisface las **expectativas o necesidades del cliente**.
+La **calidad** es el grado en que un sistema, componente o proceso cumple con los requisitos especificados y satisface las expectativas o necesidades del cliente. Implica entregar productos o servicios que sean confiables, funcionales y que generen valor para el usuario final.
 
 ---
 
 ## ¿Cómo hacemos calidad?
 
 1. **Validar el propósito del producto:**  
-    Entender el "para qué" del producto, alineando los objetivos y metas con los requerimientos del usuario o cliente.
+    Comprender el objetivo y la utilidad del producto, alineando los requerimientos con las necesidades del usuario o cliente.
 
-2. **Enumerar los atributos:**  
-    Identificar y describir cada funcionalidad esencial para la viabilidad del producto.
+2. **Identificar los atributos clave:**  
+    Determinar y describir las funcionalidades esenciales para la viabilidad y éxito del producto.
 
 3. **Cuantificar los atributos:**  
-    Asignar valores numéricos de aprobación a cada funcionalidad.
+    Asignar métricas y valores medibles a cada funcionalidad.
 
-4. **Definir patrones de medición o métricas:**  
-    Establecer niveles de cumplimiento, aceptación o control para cada atributo, considerando los desvíos promedio.
+4. **Definir patrones de medición:**  
+    Establecer criterios y métricas para evaluar el cumplimiento de cada atributo.
 
 5. **Medir el producto o una muestra:**  
-    Realizar mediciones y registrar los resultados de cada prueba, por atributo y funcionalidad.
+    Realizar pruebas y registrar los resultados por atributo y funcionalidad.
 
-6. **Comparar mediciones contra métricas:**  
-    Contrastar los resultados obtenidos con las métricas de aceptación definidas.
+6. **Comparar resultados contra métricas:**  
+    Contrastar los resultados obtenidos con los criterios de aceptación definidos.
 
-7. **Aprobar o documentar desvíos:**  
-    Documentar los resultados y calcular promedios para verificar el cumplimiento de los criterios de aceptación de cada atributo y, por ende, del producto.
+7. **Aprobar o documentar desviaciones:**  
+    Documentar los resultados, calcular promedios y verificar el cumplimiento de los criterios de aceptación.
 
 ---
 
 ## ¿Dónde aplica?
 
-- En **procesos**.
+- En **procesos** y **productos**.
 - Debe estar **orientada al cliente**.
 - Es una **mejora continua**.
-- Debe ser **medible**.
+- Debe ser **medible** y **objetiva**.
 - Involucra a **toda la organización**.
-- Incorpora **activos** a la compañía.
+- Incorpora **activos** y valor a la compañía.
 
 ---
 
-## QA/QC
+## QA vs QC
 
-### Quality Control (QC)
+### Quality Assurance (QA) - Aseguramiento de la Calidad
 
-- Detecta problemas en los **productos**.
-- Verifica que los productos cumplan con los **estándares de calidad** especificados en el plan del proyecto, tanto funcionales como técnicos.
-- Revisa el **producto**.
+- Se enfoca en los **procesos**.
+- Garantiza que los desarrollos cumplan con los **procesos y estándares definidos**.
+- Busca la **prevención** de defectos mediante la mejora continua de los procesos.
+- Revisa y mejora los **procedimientos** y **metodologías**.
 
-### Quality Assurance (QA)
+### Quality Control (QC) - Control de Calidad
 
-- Asegura que los desarrollos cumplan con los **procesos y estándares definidos**.
-- Garantiza que los procesos, planes y estándares utilizados en el proyecto cumplan con los **estándares organizacionales**.
-- Revisa los **procesos**.
-
----
-
-## Atributos de calidad
-
-### QC
-
-- **Usabilidad:** El producto debe ser utilizable en todas sus funcionalidades, tanto visibles como no visibles (por ejemplo, en cada pantalla, configuración o parametrización).
-- **Corrección:** El producto debe responder a la necesidad del cliente, los requerimientos de los usuarios o las definiciones del patrocinador.
-- **Confiabilidad:** La información entregada debe ser fidedigna, evitando datos parciales o interpretaciones erróneas.
-- **Disponibilidad:** El sistema y sus datos deben estar accesibles para los diferentes usuarios de la organización.
-- **Performance:** Cumplimiento de tiempos y respuestas según lo establecido en los planes tecnológicos (por ejemplo, latencia).
-- **Mantenibilidad:** Facilidad y bajo costo para actualizaciones, configuraciones y parametrizaciones del producto.
-
-### QA
-
-- **Definido:** Procesos concretos, completos y descritos en todas sus etapas, con entregables bajo normas y estándares establecidos.
-- **Documentado:** Procesos escritos e incorporados en los procedimientos de la organización, preferentemente dentro de un Sistema de Gestión de Calidad.
-- **Practicado:** Procesos viables, simples de aplicar y entender para todos los involucrados.
-- **Medido:** Control a través de los entregables y resultados obtenidos en cada proceso.
+- Se enfoca en los **productos**.
+- Verifica que los productos cumplan con los **estándares de calidad** especificados.
+- Busca la **detección** de defectos mediante inspección y pruebas.
+- Revisa los **resultados** y **entregables**.
 
 ---
 
-## Ciclo virtuoso de Deming
+## Atributos de Calidad
+
+### QC (Control de Calidad)
+
+- **Usabilidad:** El producto debe ser fácil de usar y accesible en todas sus funcionalidades.
+- **Corrección:** El producto debe satisfacer las necesidades y requerimientos del cliente.
+- **Confiabilidad:** La información entregada debe ser precisa y consistente.
+- **Disponibilidad:** El sistema y sus datos deben estar accesibles para los usuarios autorizados.
+- **Performance:** El producto debe cumplir con los tiempos de respuesta y rendimiento establecidos.
+- **Mantenibilidad:** Debe ser fácil y económico de actualizar, configurar y corregir.
+
+### QA (Aseguramiento de la Calidad)
+
+- **Definido:** Procesos claros, completos y documentados en todas sus etapas.
+- **Documentado:** Procesos escritos e incorporados en los procedimientos organizacionales.
+- **Practicado:** Procesos aplicables y comprensibles para todos los involucrados.
+- **Medido:** Control y seguimiento a través de indicadores y resultados obtenidos.
+
+### Otros atributos relevantes
+
+- **Seguridad:** Protección de datos y prevención de accesos no autorizados.
+- **Portabilidad:** Capacidad del producto para adaptarse y funcionar en diferentes entornos.
+- **Escalabilidad:** Facilidad para crecer y adaptarse a mayores demandas.
+
+---
+
+## Ciclo Virtuoso de Deming
 
 Espiral ascendente de **mejora continua de la calidad**.
 
 ![deming](ciclo_deming.png)
 
-- **Planificar:** Analizar y planificar previamente toda actividad. El resultado es un documento que describe lo necesario para cumplir el propósito.
-- **Hacer:** Ejecutar las acciones conforme al plan. Acciones fuera del plan pueden afectar el ciclo.
-- **Evaluar:** Medir y controlar lo realizado frente a lo especificado en el plan. Incluye verificación y validación.
-- **Ajustar:** Adaptar lo necesario según la evaluación y planificar mejoras para el siguiente ciclo.
+- **Planificar (Plan):** Analizar y planificar todas las actividades necesarias para cumplir el propósito.
+- **Hacer (Do):** Ejecutar las acciones conforme al plan establecido.
+- **Verificar (Check):** Medir y controlar lo realizado frente a lo especificado en el plan.
+- **Actuar (Act):** Adaptar y mejorar los procesos según los resultados obtenidos.
 
 Cada ciclo impulsa la evolución del producto:
 
@@ -113,7 +121,68 @@ Cada ciclo impulsa la evolución del producto:
 
 ---
 
-## Normas y estándares
+## Normas y Estándares
 
-<!-- Agrega aquí las normas y estándares relevantes -->
+![normas y estandares](normas_estandares.png)
 
+**ISO 9126** fue un estándar internacional para la evaluación de la calidad del software. Sus principales atributos son:
+
+- **Funcionalidad:** Capacidad del software para satisfacer necesidades explícitas e implícitas mediante funciones específicas.
+- **Fiabilidad:** Capacidad de mantener el nivel de prestación bajo condiciones establecidas durante un periodo determinado.
+- **Usabilidad:** Facilidad de uso y aprendizaje para el usuario.
+- **Eficiencia:** Relación entre el desempeño del software y los recursos utilizados.
+- **Mantenibilidad:** Facilidad para modificar, corregir o mejorar el sistema.
+- **Portabilidad:** Capacidad para ser transferido y adaptado a diferentes plataformas.
+- **Calidad en uso:** Grado de satisfacción y seguridad percibida por el usuario final.
+
+---
+
+## Modelos de Madurez
+
+### CMMI (Capability Maturity Model Integration)
+
+El **CMMI** es un modelo de madurez de capacidades integrado, desarrollado por el SEI (_Software Engineering Institute_). Evalúa la madurez de los procesos de desarrollo de software en una escala del 1 al 5 e integra disciplinas como sistemas y software en un solo marco de trabajo.
+
+> ### 🗂️ Niveles de CMMI
+>
+> **5. Optimizado:** Se actúa para mejorar las mediciones.
+> **4. Administrado cuantitativamente:** Se miden las actividades.
+> **3. Definido:** Se ejecutan los planes.
+> **2. Gestionado:** Se planifican las actividades.
+> **1. Inicial:** El trabajo depende del esfuerzo individual.
+
+![CMMI](CMMI.png)
+
+---
+
+### Estructura de Implementación
+
+- **Estándar**
+  ⬇️
+- **Metodología**
+  ⬇️
+- **Aplicación / Plantillas**
+
+Basado en un **Sistema de Gestión de Calidad (SGC)**.
+
+![SGC](SGC.png)
+
+---
+
+### TMMi (Test Maturity Model integrated)
+
+**TMMi** es el estándar internacional promovido por la TMMi Foundation, que mide y mejora los procesos y actividades relacionados con el diseño y ejecución de servicios de Testing y Calidad del software. Ayuda a las empresas a implementar prácticas adecuadas para la detección y prevención temprana de defectos.
+
+- Define áreas de proceso y objetivos basados en casos prácticos.
+- Utiliza niveles de madurez para la evaluación y mejora del proceso (cinco niveles).
+- Establece objetivos y prácticas específicas y genéricas.
+
+![tmmi](tmmi_2.png)
+
+---
+
+### ISO (Organización Internacional de Normalización)
+
+La **ISO** es una organización internacional fundada en 1947, dedicada a la creación de estándares globales. Promueve el uso de normas industriales y comerciales en todo el mundo, como la **ISO 9126** (calidad de software) y otras relacionadas con la gestión de calidad.
+
+---
