@@ -1,3 +1,4 @@
+# [⬅️ Volver al índice del módulo](../modulo1_principios_fundamentos.md) | [🏠 Menú principal](../README.md)
 
 # Terminología Clave en QA de Sistemas Informáticos
 
@@ -19,3 +20,7 @@
 16. **JMeter:** Herramienta de código abierto utilizada para realizar pruebas de carga, rendimiento y estrés en aplicaciones web y servicios.
 17. **Riesgo:** Probabilidad de que una amenaza o evento impacte negativamente (riesgo) o positivamente (oportunidad) en los objetivos de calidad del proyecto de software.
 18. **Plan de Pruebas:** Documento que define el alcance, enfoque, recursos, cronograma, criterios de aceptación y métricas para las actividades de testing en sistemas informáticos.
+
+---
+
+[⬅️ Volver al índice del módulo](../modulo1_principios_fundamentos.md) | [🏠 Menú principal](../README.md)

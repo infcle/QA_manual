@@ -1,6 +1,6 @@
 # ![Logo QA](modulo_1/SGC.png)
 
-# Curso QA: Testing de Software Manual
+## Curso QA: Testing de Software Manual
 
 ![Ciclo Deming](modulo_1/ciclo_deming.png)
 

@@ -1,4 +1,5 @@
 # Conceptos de Calidad
+
 ## Contenido
 
 - [**¿Qué es calidad?**](#qué-es-calidad)
@@ -21,25 +22,25 @@ La **calidad** es el grado en que un sistema, componente o proceso cumple con lo
 ## ¿Cómo hacemos calidad?
 
 1. **Validar el propósito del producto:**  
-    Comprender el objetivo y la utilidad del producto, alineando los requerimientos con las necesidades del usuario o cliente.
+   Comprender el objetivo y la utilidad del producto, alineando los requerimientos con las necesidades del usuario o cliente.
 
 2. **Identificar los atributos clave:**  
-    Determinar y describir las funcionalidades esenciales para la viabilidad y éxito del producto.
+   Determinar y describir las funcionalidades esenciales para la viabilidad y éxito del producto.
 
 3. **Cuantificar los atributos:**  
-    Asignar métricas y valores medibles a cada funcionalidad.
+   Asignar métricas y valores medibles a cada funcionalidad.
 
 4. **Definir patrones de medición:**  
-    Establecer criterios y métricas para evaluar el cumplimiento de cada atributo.
+   Establecer criterios y métricas para evaluar el cumplimiento de cada atributo.
 
 5. **Medir el producto o una muestra:**  
-    Realizar pruebas y registrar los resultados por atributo y funcionalidad.
+   Realizar pruebas y registrar los resultados por atributo y funcionalidad.
 
 6. **Comparar resultados contra métricas:**  
-    Contrastar los resultados obtenidos con los criterios de aceptación definidos.
+   Contrastar los resultados obtenidos con los criterios de aceptación definidos.
 
 7. **Aprobar o documentar desviaciones:**  
-    Documentar los resultados, calcular promedios y verificar el cumplimiento de los criterios de aceptación.
+   Documentar los resultados, calcular promedios y verificar el cumplimiento de los criterios de aceptación.
 
 ---
 
@@ -186,3 +187,5 @@ Basado en un **Sistema de Gestión de Calidad (SGC)**.
 La **ISO** es una organización internacional fundada en 1947, dedicada a la creación de estándares globales. Promueve el uso de normas industriales y comerciales en todo el mundo, como la **ISO 9126** (calidad de software) y otras relacionadas con la gestión de calidad.
 
 ---
+
+[⬅️ Volver al índice del módulo](../modulo1_principios_fundamentos.md) | [🏠 Menú principal](../README.md)
