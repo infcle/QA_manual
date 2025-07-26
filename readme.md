@@ -1,12 +1,44 @@
-# Curso QA (Testing de Software Manual)
+# Curso QA: Testing de Software Manual
+
+---
+
+## Descripción
+
+Este repositorio contiene los materiales y recursos del curso de **Testing de Software Manual (QA)**. Aquí encontrarás conceptos, prácticas, laboratorios y desafíos para formarte como tester de software.
+
+---
+
+## Objetivos del Curso
+
+- Comprender los principios y fundamentos del aseguramiento de la calidad.
+- Aprender a diseñar y gestionar casos de prueba.
+- Conocer los tipos y técnicas de pruebas funcionales y no funcionales.
+- Familiarizarse con la gestión de defectos y la automatización básica.
+- Aplicar buenas prácticas en proyectos de testing.
+
+---
 
 ## Organización del Curso
 
-- [**Módulo 1:** Principios y Fundamentos(Concepto de calidad)](modulo1_principios_fundamentos.md)
-- **Módulo 2:** Diseño de Pruebas Funcionales
-- **Módulo 3:** Gestión de Defectos
-- **Módulo 4:** Automatización
-- **Módulo 5:** Pruebas No Funcionales
-- **Módulo 6:** Gestión de Proyectos de Testing
+1. [**Módulo 1:** Principios y Fundamentos (Concepto de calidad)](modulo1_principios_fundamentos.md)
+2. [**Módulo 2:** Diseño de Pruebas Funcionales](modulo2_Casos%20de%20prueba.md)
+3. [**Módulo 3:** Gestión de Defectos](modulo3_gestion_defectos.md)
+4. [**Módulo 4:** Automatización](#modulo-4)
+5. [**Módulo 5:** Pruebas No Funcionales](#modulo-5)
+6. [**Módulo 6:** Gestión de Proyectos de Testing](#modulo-6)
+
+---
+
+## Módulo 4: Automatización
+
+Se exploran los fundamentos de la automatización de pruebas, herramientas más utilizadas (como Selenium), ventajas, limitaciones y ejemplos prácticos para iniciarse en la automatización de pruebas funcionales.
+
+## Módulo 5: Pruebas No Funcionales
+
+Este módulo cubre los tipos de pruebas no funcionales, como pruebas de performance, carga, seguridad y usabilidad, así como herramientas y técnicas para su ejecución y análisis de resultados.
+
+## Módulo 6: Gestión de Proyectos de Testing
+
+Se presentan los aspectos clave para la planificación, seguimiento y control de proyectos de testing, incluyendo la estimación de esfuerzos, métricas, gestión de riesgos y comunicación con los equipos de desarrollo y negocio.
 
 ---

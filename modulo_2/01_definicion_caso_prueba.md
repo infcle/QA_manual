@@ -6,7 +6,7 @@ Un **caso de prueba** es un documento que describe cómo verificar que una funci
 
 > Un caso de prueba bien definido ayuda a detectar errores y asegurar la calidad del producto.
 
-### Elementos clave de un caso de prueba
+## Elementos clave de un caso de prueba
 
 | Elemento            | Descripción                                                    |
 | ------------------- | -------------------------------------------------------------- |
