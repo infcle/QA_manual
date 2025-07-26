@@ -1,3 +1,3 @@
-# Laboratorio: Primer script automatizado
+# Laboratorio adicional 1
 
-Ejercicio para crear y ejecutar un script de prueba automatizada.
+Ejercicio práctico para crear un primer script de automatización.

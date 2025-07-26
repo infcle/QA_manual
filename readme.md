@@ -23,15 +23,11 @@ Este repositorio contiene los materiales y recursos del curso de **Testing de So
 1. [**Módulo 1:** Principios y Fundamentos (Concepto de calidad)](modulo1_principios_fundamentos.md)
 2. [**Módulo 2:** Diseño de Pruebas Funcionales](modulo2_Casos%20de%20prueba.md)
 3. [**Módulo 3:** Gestión de Defectos](modulo3_gestion_defectos.md)
-4. [**Módulo 4:** Automatización](#modulo-4)
+4. [**Módulo 4:** Automatización](modulo4_automatizacion.md)
 5. [**Módulo 5:** Pruebas No Funcionales](#modulo-5)
 6. [**Módulo 6:** Gestión de Proyectos de Testing](#modulo-6)
 
 ---
-
-## Módulo 4: Automatización
-
-Se exploran los fundamentos de la automatización de pruebas, herramientas más utilizadas (como Selenium), ventajas, limitaciones y ejemplos prácticos para iniciarse en la automatización de pruebas funcionales.
 
 ## Módulo 5: Pruebas No Funcionales
 
