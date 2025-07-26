@@ -1,32 +1,41 @@
+# ![Logo QA](modulo_1/SGC.png)
+
 # Curso QA: Testing de Software Manual
 
----
-
-## Descripción
-
-Este repositorio contiene los materiales y recursos del curso de **Testing de Software Manual (QA)**. Aquí encontrarás conceptos, prácticas, laboratorios y desafíos para formarte como tester de software.
+<p align="center">
+  <img src="modulo_1/ciclo_deming.png" alt="Ciclo Deming" width="350"/>
+</p>
 
 ---
 
-## Objetivos del Curso
+## 📋 Descripción
 
-- Comprender los principios y fundamentos del aseguramiento de la calidad.
-- Aprender a diseñar y gestionar casos de prueba.
-- Conocer los tipos y técnicas de pruebas funcionales y no funcionales.
-- Familiarizarse con la gestión de defectos y la automatización básica.
-- Aplicar buenas prácticas en proyectos de testing.
+Este repositorio contiene los materiales y recursos del curso de <b>Testing de Software Manual (QA)</b>. Aquí encontrarás conceptos, prácticas, laboratorios y desafíos para formarte como tester de software.
 
 ---
 
-## Organización del Curso
+## 🎯 Objetivos del Curso
 
-1. [**Módulo 1:** Principios y Fundamentos (Concepto de calidad)](modulo1_principios_fundamentos.md)
-2. [**Módulo 2:** Diseño de Pruebas Funcionales](modulo2_Casos%20de%20prueba.md)
-3. [**Módulo 3:** Gestión de Defectos](modulo3_gestion_defectos.md)
-4. [**Módulo 4:** Automatización](modulo4_automatizacion.md)
-5. [**Módulo 5:** Pruebas No Funcionales](modulo5_pruebas_no_funcionales.md)
-6. [**Módulo 6:** Gestión de Proyectos de Testing](modulo6_gestion_proyectos_testing.md)
+- Comprender los <b>principios y fundamentos</b> del aseguramiento de la calidad.
+- Aprender a <b>diseñar y gestionar casos de prueba</b>.
+- Conocer los <b>tipos y técnicas de pruebas</b> funcionales y no funcionales.
+- Familiarizarse con la <b>gestión de defectos</b> y la automatización básica.
+- Aplicar <b>buenas prácticas</b> en proyectos de testing.
 
 ---
+
+## 🗂️ Organización del Curso
+
+<details>
+  <summary><b>Módulos del curso</b></summary>
+  <ol>
+    <li><a href="modulo1_principios_fundamentos.md"><b>Módulo 1:</b> Principios y Fundamentos (Concepto de calidad)</a></li>
+    <li><a href="modulo2_Casos%20de%20prueba.md"><b>Módulo 2:</b> Diseño de Pruebas Funcionales</a></li>
+    <li><a href="modulo3_gestion_defectos.md"><b>Módulo 3:</b> Gestión de Defectos</a></li>
+    <li><a href="modulo4_automatizacion.md"><b>Módulo 4:</b> Automatización</a></li>
+    <li><a href="modulo5_pruebas_no_funcionales.md"><b>Módulo 5:</b> Pruebas No Funcionales</a></li>
+    <li><a href="modulo6_gestion_proyectos_testing.md"><b>Módulo 6:</b> Gestión de Proyectos de Testing</a></li>
+  </ol>
+</details>
 
 ---
