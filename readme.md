@@ -25,12 +25,8 @@ Este repositorio contiene los materiales y recursos del curso de **Testing de So
 3. [**Módulo 3:** Gestión de Defectos](modulo3_gestion_defectos.md)
 4. [**Módulo 4:** Automatización](modulo4_automatizacion.md)
 5. [**Módulo 5:** Pruebas No Funcionales](modulo5_pruebas_no_funcionales.md)
-6. [**Módulo 6:** Gestión de Proyectos de Testing](#modulo-6)
+6. [**Módulo 6:** Gestión de Proyectos de Testing](modulo6_gestion_proyectos_testing.md)
 
 ---
-
-## Módulo 6: Gestión de Proyectos de Testing
-
-Se presentan los aspectos clave para la planificación, seguimiento y control de proyectos de testing, incluyendo la estimación de esfuerzos, métricas, gestión de riesgos y comunicación con los equipos de desarrollo y negocio.
 
 ---
