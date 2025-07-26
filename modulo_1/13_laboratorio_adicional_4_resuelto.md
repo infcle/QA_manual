@@ -1,0 +1,6 @@
+# Laboratorio adicional 4 - Resuelto
+
+Soluciones sugeridas para los ejercicios del laboratorio adicional 4.
+
+1. Clasificación de pruebas: ...
+2. Ejemplo de técnica aplicada: ...
