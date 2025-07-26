@@ -39,3 +39,11 @@ Este repositorio contiene los materiales y recursos del curso de <b>Testing de S
 </details>
 
 ---
+
+## 🌐 Recursos y enlaces útiles sobre QA
+
+- [ISTQB Foundation Level Syllabus (PDF)](https://www.istqb.org/downloads/send/2-foundation-level-documents/3-foundation-level-syllabus-2018.html)
+- [Ministerio de QA (Comunidad en español)](https://www.ministeriodeqa.com/)
+- [Software Testing Help (Blog)](https://www.softwaretestinghelp.com/)
+- [Ministry of Testing (Comunidad global)](https://www.ministryoftesting.com/)
+- [QA Stack Exchange (Foro de preguntas y respuestas)](https://sqa.stackexchange.com/)
