@@ -109,6 +109,9 @@ Las técnicas de caja negra evalúan la funcionalidad del software sin considera
 
 - Partición de equivalencia
 - Análisis de valores límite
+- Transicion de datos
+- Tablas de decision
+- Casos de uso
 
 ![Enfoque dinámico caja negra](./imagenes/tecnicas_caja_negra.png)
 
