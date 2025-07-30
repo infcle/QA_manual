@@ -103,7 +103,7 @@ La **calidad** es el grado en que un sistema, componente o proceso cumple con lo
 
 Espiral ascendente de **mejora continua de la calidad**.
 
-![deming](ciclo_deming.png)
+![deming](./imagenes/ciclo_deming.png)
 
 - **Planificar (Plan):** Analizar y planificar todas las actividades necesarias para cumplir el propósito.
 - **Hacer (Do):** Ejecutar las acciones conforme al plan establecido.
@@ -124,7 +124,7 @@ Cada ciclo impulsa la evolución del producto:
 
 ## Normas y Estándares
 
-![normas y estandares](normas_estandares.png)
+![normas y estandares](./imagenes/normas_estandares.png)
 
 **ISO 9126** fue un estándar internacional para la evaluación de la calidad del software. Sus principales atributos son:
 
@@ -152,7 +152,7 @@ El **CMMI** es un modelo de madurez de capacidades integrado, desarrollado por e
 > **2. Gestionado:** Se planifican las actividades.
 > **1. Inicial:** El trabajo depende del esfuerzo individual.
 
-![CMMI](CMMI.png)
+![CMMI](./imagenes/CMMI.png)
 
 ---
 
@@ -166,7 +166,7 @@ El **CMMI** es un modelo de madurez de capacidades integrado, desarrollado por e
 
 Basado en un **Sistema de Gestión de Calidad (SGC)**.
 
-![SGC](SGC.png)
+![SGC](./imagenes/SGC.png)
 
 ---
 
@@ -178,7 +178,7 @@ Basado en un **Sistema de Gestión de Calidad (SGC)**.
 - Utiliza niveles de madurez para la evaluación y mejora del proceso (cinco niveles).
 - Establece objetivos y prácticas específicas y genéricas.
 
-![tmmi](tmmi_2.png)
+![tmmi](./imagenes/tmmi_2.png)
 
 ---
 
@@ -188,4 +188,4 @@ La **ISO** es una organización internacional fundada en 1947, dedicada a la cre
 
 ---
 
-[⬅️ Volver al índice del módulo](../modulo1_principios_fundamentos.md) | [🏠 Menú principal](../README.md)
+### [⬅️ Volver al índice del módulo](../modulo1_principios_fundamentos.md) | [🏠 Menú principal](../README.md)

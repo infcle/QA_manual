@@ -108,7 +108,8 @@ El ciclo de Deming es un modelo de mejora continua que sigue estos pasos:
 
 📄 **Descarga la solución en PDF:**
 
-[Laboratorio1_1-2.pdf](./Laboratorio1_1-2.pdf)
+[Laboratorio1_1-2.pdf](./laboratorios/Laboratorio1_1-2.pdf)
 
 ---
-[⬅️ Volver al índice del módulo](../modulo1_principios_fundamentos.md) | [🏠 Menú principal](../README.md)
+
+### [⬅️ Volver al índice del módulo](../modulo1_principios_fundamentos.md) | [🏠 Menú principal](../README.md)

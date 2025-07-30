@@ -88,7 +88,7 @@ En metodologías ágiles como SCRUM, todos los roles trabajan en conjunto dentro
 ### 📄 Solución Laboratorio 2
 
 Solución Personal en el siguiente documento PDF:  
-[Laboratorio_2.pdf](./Laboratorio_2.pdf)
+[Laboratorio_2.pdf](./laboratorios/Laboratorio_2.pdf)
 
 ---
 
