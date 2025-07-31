@@ -120,10 +120,9 @@ El ciclo de vida del testing describe las etapas y actividades que se llevan a c
 
 ### Ciclo de vida del testing (Marco Ágil)
 
-![Ciclo de vida ágil](ciclo_vida%20testing_agil.png)
+![Ciclo de vida ágil](imagenes/ciclo_vida%20testing_agil.png)
 
 En metodologías ágiles, el testing se integra de forma continua en cada iteración, promoviendo la colaboración y la entrega incremental de valor.
 
 ---
-
-### [⬅️ Volver al índice del módulo](../modulo1_principios_fundamentos.md) | [🏠 Menú principal](../README.md)
+[⬅️ Volver al índice del módulo](../modulo1_principios_fundamentos.md) | [🏠 Menú principal](../README.md)

@@ -187,5 +187,4 @@ Basado en un **Sistema de Gestión de Calidad (SGC)**.
 La **ISO** es una organización internacional fundada en 1947, dedicada a la creación de estándares globales. Promueve el uso de normas industriales y comerciales en todo el mundo, como la **ISO 9126** (calidad de software) y otras relacionadas con la gestión de calidad.
 
 ---
-
-### [⬅️ Volver al índice del módulo](../modulo1_principios_fundamentos.md) | [🏠 Menú principal](../README.md)
+[⬅️ Volver al índice del módulo](../modulo1_principios_fundamentos.md) | [🏠 Menú principal](../README.md)

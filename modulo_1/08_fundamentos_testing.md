@@ -46,9 +46,9 @@ La detección temprana de defectos es fundamental en el desarrollo de software. 
 
 **¿En qué etapa es más costoso encontrar un defecto?**
 
-- El tester encuentra los defectos durante las pruebas unitarias.  
-- El tester encuentra los defectos durante las pruebas a nivel de sistema.  
-- El usuario encuentra los defectos en producción. ✅  
+- El tester encuentra los defectos durante las pruebas unitarias.
+- El tester encuentra los defectos durante las pruebas a nivel de sistema.
+- El usuario encuentra los defectos en producción. ✅
 - El usuario encuentra los defectos durante las pruebas de aceptación.
 
 ![¿Qué es más costoso?](imagenes/que_es_mas_costoso.png)
@@ -89,4 +89,4 @@ La ausencia de errores es una falacia, es decir, una creencia equivocada. Las pr
 
 ---
 
-### [⬅️ Volver al índice del módulo](../modulo1_principios_fundamentos.md) | [🏠 Menú principal](../README.md)
+[⬅️ Volver al índice del módulo](../modulo1_principios_fundamentos.md) | [🏠 Menú principal](../README.md)
