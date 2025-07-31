@@ -110,4 +110,9 @@ Tabla de decisiones:
 
 ---
 
+📄 **Descarga la solución en PDF:**
+[Laboratorio_4.pdf](laboratorios/Laboratorio_4.pdf)
+
+---
+
 [⬅️ Volver al índice del módulo](../modulo1_principios_fundamentos.md) | [🏠 Menú principal](../README.md)
