@@ -23,4 +23,5 @@ En este módulo se abordan los conceptos esenciales de calidad, fundamentos del 
 15. [✅ Desafío resuelto](modulo_1/15_desafio_resuelto.md)
 
 ---
+
 [🏠 Volver al menú principal](README.md)
