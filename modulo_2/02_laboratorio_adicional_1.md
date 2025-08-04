@@ -20,3 +20,13 @@ A continuación se presentan tres ejercicios cuyo objetivo es diseñar casos de 
 ## 🏧 Ejercicio 3: Depósito en Cajero Automático
 
 **Objetivo:** Diseñar casos de prueba relacionados con el proceso de depósito de dinero en una cuenta corriente a través de un cajero automático bancario.
+
+---
+
+📄 **Descarga la solución en PDF:**
+
+[Laboratorio](laboratorios/laboratorio_1.pdf)
+
+---
+
+[⬅️ Volver al índice del módulo](../modulo2_Casos%20de%20prueba.md) | [🏠 Menú principal](../README.md)
