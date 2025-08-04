@@ -4,12 +4,12 @@
 
 ## 📑 Contenido
 
-- [📌 Definición de Caso de Prueba](#definición-de-caso-de-prueba)
-- [🧱 Esquema y Características](#esquema-y-características)
-- [🧠 Cómo Diseñar Casos de Prueba](#cómo-diseñar-casos-de-prueba)
-- [🔍 Casos de Uso](#casos-de-uso)
-- [🔄 Casos de Uso vs Casos de Prueba](#casos-de-uso-vs-casos-de-prueba)
-- [🧬 Diagrama de Relación de Caso de Prueba](#diagrama-de-relación-de-caso-de-prueba)
+- [📌 Definición de Caso de Prueba](#-definición-de-caso-de-prueba)
+- [🧱 Esquema y Características](#-esquema-y-características)
+- [🧠 Cómo Diseñar Casos de Prueba](#-cómo-diseñar-casos-de-prueba)
+- [🔍 Casos de Uso](#-casos-de-uso)
+- [🔄 Casos de Uso vs Casos de Prueba](#-casos-de-uso-vs-casos-de-prueba)
+- [🧬 Diagrama de Relación de Caso de Prueba](#-diagrama-de-relación-de-caso-de-prueba)
 
 ---
 
@@ -18,6 +18,7 @@
 Un **caso de prueba** es un conjunto de condiciones, datos de entrada, precondiciones, acciones a ejecutar, resultados esperados y postcondiciones, que permiten verificar que un sistema o componente funcione correctamente bajo una situación específica.
 
 Los casos de prueba se diseñan con el objetivo de:
+
 - Validar el cumplimiento de un requisito funcional.
 - Comprobar la correcta ejecución de un flujo o escenario.
 - Detectar errores o desviaciones en la funcionalidad esperada.
@@ -82,6 +83,7 @@ Pasos recomendados:
 Un **caso de uso** describe las interacciones entre un actor (usuario o sistema externo) y el sistema, para lograr un objetivo específico.
 
 Se utiliza para:
+
 - Representar visualmente los requerimientos del sistema.
 - Especificar el comportamiento esperado ante ciertos eventos.
 - Guiar el diseño de pruebas funcionales.

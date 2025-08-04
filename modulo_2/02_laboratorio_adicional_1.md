@@ -1,6 +1,22 @@
-# Laboratorio adicional 1
+# Laboratorio Adicional 1
 
-Ejercicios prácticos para crear y analizar casos de prueba.
+A continuación se presentan tres ejercicios cuyo objetivo es diseñar casos de prueba en distintos contextos reales.
 
-1. Diseña un caso de prueba para el inicio de sesión de una aplicación.
-2. Identifica posibles errores en un caso de prueba mal definido.
+---
+
+## 🛫 Ejercicio 1: Compra de Pasajes
+
+**Objetivo:** Diseñar casos de prueba relacionados con la compra de pasajes en el siguiente sitio web:  
+[https://www.blazedemo.com/](https://www.blazedemo.com/)
+
+---
+
+## 🍦 Ejercicio 2: Compra de Helado en E-commerce
+
+**Objetivo:** Diseñar casos de prueba para la compra de un helado utilizando un sitio de comercio electrónico como Mercado Libre u otra plataforma similar.
+
+---
+
+## 🏧 Ejercicio 3: Depósito en Cajero Automático
+
+**Objetivo:** Diseñar casos de prueba relacionados con el proceso de depósito de dinero en una cuenta corriente a través de un cajero automático bancario.
