@@ -55,4 +55,9 @@ Compra de un vuelo con discrepancia en el precio mostrado en la confirmación re
 
 ---
 
+Puedes revisar la solución completa en el siguiente archivo:  
+[laboratorio 1](laboratorios/laboratorio_1.pdf)
+
+---
+
 [⬅️ Volver al índice del módulo](../modulo3_gestion_defectos.md) | [🏠 Menú principal](../README.md)
