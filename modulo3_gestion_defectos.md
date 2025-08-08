@@ -17,3 +17,7 @@ En este módulo se abordan los conceptos y procesos para la identificación, rep
 9. [Laboratorio 3 adicional resuelto](modulo_3/09_laboratorio_3_adicional_resuelto.md)
 10. [Desafío](modulo_3/10_desafio.md)
 11. [Desafío resuelto](modulo_3/11_desafio_resuelto.md)
+
+---
+
+[🏠 Volver al menú principal](README.md)
