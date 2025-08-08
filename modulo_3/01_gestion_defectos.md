@@ -107,4 +107,4 @@ Un defecto no corregido puede generar:
 
 ---
 
-[🏠 Volver al menú principal](README.md)
+[⬅️ Volver al índice del módulo](../modulo3_gestion_defectos.md) | [🏠 Menú principal](../README.md)
