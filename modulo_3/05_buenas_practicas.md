@@ -8,6 +8,7 @@ Su objetivo es **asegurar la calidad del software** y reducir riesgos en producc
 ## Principales Buenas Prácticas
 
 ### 1. Documentar Claramente Cada Defecto
+
 - **Descripción detallada**: incluir contexto, pasos para reproducir, datos de entrada y condiciones del entorno.
 - **Evidencia**: capturas de pantalla, grabaciones de video, logs del sistema.
 - **Trazabilidad**: vincular el defecto con el caso de prueba, requerimiento y versión del sistema.
@@ -16,6 +17,7 @@ Su objetivo es **asegurar la calidad del software** y reducir riesgos en producc
 > *ID:* BUG-001  
 > *Título:* El sistema permite iniciar sesión con contraseña vacía.  
 > *Pasos para reproducir:*  
+>
 > 1. Ir a la pantalla de login.  
 > 2. Ingresar un usuario válido.  
 > 3. Dejar la contraseña en blanco y presionar "Ingresar".  
@@ -41,6 +43,7 @@ Su objetivo es **asegurar la calidad del software** y reducir riesgos en producc
 ---
 
 ### 3. Hacer Seguimiento Hasta el Cierre
+
 - Asignar el defecto a un **responsable**.
 - Monitorear el **estado**: Abierto → En Proceso → Resuelto → Verificado → Cerrado.
 - Validar la **corrección** ejecutando nuevamente el caso de prueba.

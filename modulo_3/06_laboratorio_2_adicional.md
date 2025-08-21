@@ -22,5 +22,10 @@ Completar de manera detallada la descripción de los defectos encontrados en las
 Profundizar en la documentación de los defectos detectados durante la prueba de depósito de dinero en una cuenta corriente a través de un cajero automático bancario, completando todos los atributos establecidos para la gestión de defectos.
 
 ---
+📄 **Descarga la solución en PDF:**
+
+[laboratorio_2.pdf](laboratorios/laboratorio_2.pdf)
+
+---
 
 [⬅️ Volver al índice del módulo](../modulo3_gestion_defectos.md) | [🏠 Menú principal](../README.md)
