@@ -29,3 +29,7 @@ Revisa la sección de facturación en el sitio web de [Garbarino](https://www.ga
 ---
 
 > **Tip:** Sé específico al describir cada defecto. Incluye detalles sobre el comportamiento observado, el resultado esperado y los pasos para reproducir el problema.
+
+---
+
+[⬅️ Volver al índice del módulo](../modulo3_gestion_defectos.md) | [🏠 Menú principal](../README.md)
