@@ -42,3 +42,4 @@ Este repositorio contiene los materiales y recursos del curso de **Testing de So
 - [Software Testing Help (Blog)](https://www.softwaretestinghelp.com/)
 - [Ministry of Testing (Comunidad global)](https://www.ministryoftesting.com/)
 - [QA Stack Exchange (Foro de preguntas y respuestas)](https://sqa.stackexchange.com/)
+- [devch-tech](https://devch-tech.github.io/QA-Manual-Curso/)
