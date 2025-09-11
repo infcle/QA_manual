@@ -1,6 +1,6 @@
-# Módulo 4: Automatización
+# Módulo 4: Conceptos de Automatización
 
-En este módulo se exploran los conceptos fundamentales de la automatización de pruebas, herramientas, scripting y ejercicios prácticos.
+En este módulo aprenderás los fundamentos de la automatización de pruebas, el uso de herramientas especializadas, scripting y ejercicios prácticos para fortalecer tus conocimientos.
 
 ---
 
@@ -15,3 +15,7 @@ En este módulo se exploran los conceptos fundamentales de la automatización de
 7. [Scripting bajo Selenium IDE](modulo_4/07_scripting_selenium_ide.md)
 8. [Laboratorio adicional 3](modulo_4/08_laboratorio_adicional_3.md)
 9. [Desafío](modulo_4/09_desafio.md)
+
+---
+
+[🏠 Volver al menú principal](README.md)

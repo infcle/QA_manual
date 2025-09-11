@@ -29,7 +29,7 @@ Este repositorio contiene los materiales y recursos del curso de **Testing de So
 1. [**Módulo 1:** Principios y Fundamentos (Concepto de calidad)](modulo1_principios_fundamentos.md)
 2. [**Módulo 2:** Diseño de Pruebas Funcionales](modulo2_Casos%20de%20prueba.md)
 3. [**Módulo 3:** Gestión de Defectos](modulo3_gestion_defectos.md)
-4. [**Módulo 4:** Automatización](modulo4_automatizacion.md)
+4. [**Módulo 4:** Concepto de Automatización](modulo4_automatizacion.md)
 5. [**Módulo 5:** Pruebas No Funcionales](modulo5_pruebas_no_funcionales.md)
 6. [**Módulo 6:** Gestión de Proyectos de Testing](modulo6_gestion_proyectos_testing.md)
 
