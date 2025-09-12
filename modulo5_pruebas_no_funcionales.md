@@ -22,3 +22,7 @@ Este módulo cubre los tipos de pruebas no funcionales, como performance, carga,
 14. [Laboratorio adicional 5](modulo_5/14_laboratorio_adicional_5.md)
 15. [Desafío](modulo_5/15_desafio.md)
 16. [Desafío resuelto](modulo_5/16_desafio_resuelto.md)
+
+---
+
+[🏠 Volver al menú principal](README.md)
